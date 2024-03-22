@@ -8,7 +8,7 @@
 }
 
 #mismoFondo{
-  background-image: url("../imgs/banner_1.png");
+  background-image: url("./imgs/banner_1.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
